@@ -1,6 +1,6 @@
 # TI Capital Allocation Simulator
 
-Monte Carlo simulation of what happens if Texas Instruments reallocates $5-8B from dividends to capex, and how much that hurts investor confidence.
+Monte Carlo simulation of what happens if Texas Instruments reallocates $5-8B from dividends to capex, and how much that hurts TI's financial returns.
 
 ## How it works
 
